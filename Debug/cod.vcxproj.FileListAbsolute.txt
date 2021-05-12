@@ -1,2 +1,3 @@
 I:\papka.git\cod\Debug\cod.exe
 I:\papka.git\cod.git\Debug\cod.exe
+I:\RepoB\Debug\cod.exe
